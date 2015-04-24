@@ -74,7 +74,7 @@ ol {
 
 li {
   font-weight: normal;
-  font-size: .8rem;
+  font-size: 2rem;
   font-style: normal;
   font-family: 'Indie Flower', cursive;
   line-height: 1;
@@ -145,6 +145,7 @@ h5 {
 
 .find-us {
   font-size: 1em;
+  padding-bottom: 1em;
 }
 
 .number {
