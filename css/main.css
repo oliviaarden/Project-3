@@ -23,10 +23,6 @@ img {
   padding-bottom: 1.8em;
 }
 
-.sisters {
-  padding:1em;
-}
-
 p{
   padding-left:1em;
   padding-right: 1em;
@@ -74,7 +70,7 @@ ol {
 
 li {
   font-weight: normal;
-  font-size: 2rem;
+  font-size: .8rem;
   font-style: normal;
   font-family: 'Indie Flower', cursive;
   line-height: 1;
@@ -114,7 +110,7 @@ h1{
 
 h2{
   font-family: 'Indie Flower', cursive;
-  font-size: 2em;
+  font-size: 1.7em;
   text-align: center;
   padding-left: 1em;
   margin: 0;
